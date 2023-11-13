@@ -1,0 +1,84 @@
+C:\Users\Andre\Downloads\UnitOfWorkADONET-main\UnitOfWorkADONET-main\src\bin\Debug\net6.0\SuperOraculo.Infra.Data.Providers.deps.json
+C:\Users\Andre\Downloads\UnitOfWorkADONET-main\UnitOfWorkADONET-main\src\bin\Debug\net6.0\SuperOraculo.Infra.Data.Providers.dll
+C:\Users\Andre\Downloads\UnitOfWorkADONET-main\UnitOfWorkADONET-main\src\bin\Debug\net6.0\SuperOraculo.Infra.Data.Providers.pdb
+C:\Users\Andre\Downloads\UnitOfWorkADONET-main\UnitOfWorkADONET-main\src\obj\Debug\net6.0\UnitOfWorkADONET.csproj.AssemblyReference.cache
+C:\Users\Andre\Downloads\UnitOfWorkADONET-main\UnitOfWorkADONET-main\src\obj\Debug\net6.0\UnitOfWorkADONET.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andre\Downloads\UnitOfWorkADONET-main\UnitOfWorkADONET-main\src\obj\Debug\net6.0\UnitOfWorkADONET.AssemblyInfoInputs.cache
+C:\Users\Andre\Downloads\UnitOfWorkADONET-main\UnitOfWorkADONET-main\src\obj\Debug\net6.0\UnitOfWorkADONET.AssemblyInfo.cs
+C:\Users\Andre\Downloads\UnitOfWorkADONET-main\UnitOfWorkADONET-main\src\obj\Debug\net6.0\UnitOfWorkADONET.csproj.CoreCompileInputs.cache
+C:\Users\Andre\Downloads\UnitOfWorkADONET-main\UnitOfWorkADONET-main\src\obj\Debug\net6.0\SuperOraculo.Infra.Data.Providers.dll
+C:\Users\Andre\Downloads\UnitOfWorkADONET-main\UnitOfWorkADONET-main\src\obj\Debug\net6.0\refint\SuperOraculo.Infra.Data.Providers.dll
+C:\Users\Andre\Downloads\UnitOfWorkADONET-main\UnitOfWorkADONET-main\src\obj\Debug\net6.0\SuperOraculo.Infra.Data.Providers.pdb
+C:\Users\Andre\Downloads\UnitOfWorkADONET-main\UnitOfWorkADONET-main\src\obj\Debug\net6.0\ref\SuperOraculo.Infra.Data.Providers.dll
+C:\Users\Andre\Downloads\UnitOfWorkADONET-main\UnitOfWorkADONET\src\bin\Debug\net6.0\SuperOraculo.Infra.Data.Providers.deps.json
+C:\Users\Andre\Downloads\UnitOfWorkADONET-main\UnitOfWorkADONET\src\bin\Debug\net6.0\SuperOraculo.Infra.Data.Providers.dll
+C:\Users\Andre\Downloads\UnitOfWorkADONET-main\UnitOfWorkADONET\src\bin\Debug\net6.0\SuperOraculo.Infra.Data.Providers.pdb
+C:\Users\Andre\Downloads\UnitOfWorkADONET-main\UnitOfWorkADONET\src\obj\Debug\net6.0\UnitOfWorkADONET.csproj.AssemblyReference.cache
+C:\Users\Andre\Downloads\UnitOfWorkADONET-main\UnitOfWorkADONET\src\obj\Debug\net6.0\UnitOfWorkADONET.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andre\Downloads\UnitOfWorkADONET-main\UnitOfWorkADONET\src\obj\Debug\net6.0\UnitOfWorkADONET.AssemblyInfoInputs.cache
+C:\Users\Andre\Downloads\UnitOfWorkADONET-main\UnitOfWorkADONET\src\obj\Debug\net6.0\UnitOfWorkADONET.AssemblyInfo.cs
+C:\Users\Andre\Downloads\UnitOfWorkADONET-main\UnitOfWorkADONET\src\obj\Debug\net6.0\UnitOfWorkADONET.csproj.CoreCompileInputs.cache
+C:\Users\Andre\Downloads\UnitOfWorkADONET-main\UnitOfWorkADONET\src\obj\Debug\net6.0\SuperOraculo.Infra.Data.Providers.dll
+C:\Users\Andre\Downloads\UnitOfWorkADONET-main\UnitOfWorkADONET\src\obj\Debug\net6.0\refint\SuperOraculo.Infra.Data.Providers.dll
+C:\Users\Andre\Downloads\UnitOfWorkADONET-main\UnitOfWorkADONET\src\obj\Debug\net6.0\SuperOraculo.Infra.Data.Providers.pdb
+C:\Users\Andre\Downloads\UnitOfWorkADONET-main\UnitOfWorkADONET\src\obj\Debug\net6.0\ref\SuperOraculo.Infra.Data.Providers.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\UnitOfWorkADONET\UnitOfWorkADONET\src\bin\Debug\net6.0\SuperOraculo.Infra.Data.Providers.deps.json
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\UnitOfWorkADONET\UnitOfWorkADONET\src\bin\Debug\net6.0\SuperOraculo.Infra.Data.Providers.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\UnitOfWorkADONET\UnitOfWorkADONET\src\bin\Debug\net6.0\SuperOraculo.Infra.Data.Providers.pdb
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\UnitOfWorkADONET\UnitOfWorkADONET\src\obj\Debug\net6.0\UnitOfWorkADONET.csproj.AssemblyReference.cache
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\UnitOfWorkADONET\UnitOfWorkADONET\src\obj\Debug\net6.0\UnitOfWorkADONET.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\UnitOfWorkADONET\UnitOfWorkADONET\src\obj\Debug\net6.0\UnitOfWorkADONET.AssemblyInfoInputs.cache
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\UnitOfWorkADONET\UnitOfWorkADONET\src\obj\Debug\net6.0\UnitOfWorkADONET.AssemblyInfo.cs
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\UnitOfWorkADONET\UnitOfWorkADONET\src\obj\Debug\net6.0\UnitOfWorkADONET.csproj.CoreCompileInputs.cache
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\UnitOfWorkADONET\UnitOfWorkADONET\src\obj\Debug\net6.0\SuperOraculo.Infra.Data.Providers.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\UnitOfWorkADONET\UnitOfWorkADONET\src\obj\Debug\net6.0\refint\SuperOraculo.Infra.Data.Providers.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\UnitOfWorkADONET\UnitOfWorkADONET\src\obj\Debug\net6.0\SuperOraculo.Infra.Data.Providers.pdb
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\UnitOfWorkADONET\UnitOfWorkADONET\src\obj\Debug\net6.0\ref\SuperOraculo.Infra.Data.Providers.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\JWT\UnitOfWorkADONET\src\bin\Debug\net6.0\SuperOraculo.Infra.Data.Providers.deps.json
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\JWT\UnitOfWorkADONET\src\bin\Debug\net6.0\SuperOraculo.Infra.Data.Providers.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\JWT\UnitOfWorkADONET\src\bin\Debug\net6.0\SuperOraculo.Infra.Data.Providers.pdb
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\JWT\UnitOfWorkADONET\src\obj\Debug\net6.0\UnitOfWorkADONET.csproj.AssemblyReference.cache
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\JWT\UnitOfWorkADONET\src\obj\Debug\net6.0\UnitOfWorkADONET.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\JWT\UnitOfWorkADONET\src\obj\Debug\net6.0\UnitOfWorkADONET.AssemblyInfoInputs.cache
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\JWT\UnitOfWorkADONET\src\obj\Debug\net6.0\UnitOfWorkADONET.AssemblyInfo.cs
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\JWT\UnitOfWorkADONET\src\obj\Debug\net6.0\UnitOfWorkADONET.csproj.CoreCompileInputs.cache
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\JWT\UnitOfWorkADONET\src\obj\Debug\net6.0\SuperOraculo.Infra.Data.Providers.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\JWT\UnitOfWorkADONET\src\obj\Debug\net6.0\refint\SuperOraculo.Infra.Data.Providers.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\JWT\UnitOfWorkADONET\src\obj\Debug\net6.0\SuperOraculo.Infra.Data.Providers.pdb
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\JWT\UnitOfWorkADONET\src\obj\Debug\net6.0\ref\SuperOraculo.Infra.Data.Providers.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\APIDocs\UnitOfWorkADONET\src\bin\Debug\net6.0\SuperOraculo.Infra.Data.Providers.deps.json
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\APIDocs\UnitOfWorkADONET\src\bin\Debug\net6.0\SuperOraculo.Infra.Data.Providers.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\APIDocs\UnitOfWorkADONET\src\bin\Debug\net6.0\SuperOraculo.Infra.Data.Providers.pdb
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\APIDocs\UnitOfWorkADONET\src\obj\Debug\net6.0\UnitOfWorkADONET.csproj.AssemblyReference.cache
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\APIDocs\UnitOfWorkADONET\src\obj\Debug\net6.0\UnitOfWorkADONET.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\APIDocs\UnitOfWorkADONET\src\obj\Debug\net6.0\UnitOfWorkADONET.AssemblyInfoInputs.cache
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\APIDocs\UnitOfWorkADONET\src\obj\Debug\net6.0\UnitOfWorkADONET.AssemblyInfo.cs
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\APIDocs\UnitOfWorkADONET\src\obj\Debug\net6.0\UnitOfWorkADONET.csproj.CoreCompileInputs.cache
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\APIDocs\UnitOfWorkADONET\src\obj\Debug\net6.0\SuperOraculo.Infra.Data.Providers.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\APIDocs\UnitOfWorkADONET\src\obj\Debug\net6.0\refint\SuperOraculo.Infra.Data.Providers.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\APIDocs\UnitOfWorkADONET\src\obj\Debug\net6.0\SuperOraculo.Infra.Data.Providers.pdb
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\APIDocs\UnitOfWorkADONET\src\obj\Debug\net6.0\ref\SuperOraculo.Infra.Data.Providers.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\REACT\backend\UnitOfWorkADONET\src\bin\Debug\net6.0\SuperOraculo.Infra.Data.Providers.deps.json
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\REACT\backend\UnitOfWorkADONET\src\bin\Debug\net6.0\SuperOraculo.Infra.Data.Providers.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\REACT\backend\UnitOfWorkADONET\src\bin\Debug\net6.0\SuperOraculo.Infra.Data.Providers.pdb
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\REACT\backend\UnitOfWorkADONET\src\obj\Debug\net6.0\UnitOfWorkADONET.csproj.AssemblyReference.cache
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\REACT\backend\UnitOfWorkADONET\src\obj\Debug\net6.0\UnitOfWorkADONET.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\REACT\backend\UnitOfWorkADONET\src\obj\Debug\net6.0\UnitOfWorkADONET.AssemblyInfoInputs.cache
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\REACT\backend\UnitOfWorkADONET\src\obj\Debug\net6.0\UnitOfWorkADONET.AssemblyInfo.cs
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\REACT\backend\UnitOfWorkADONET\src\obj\Debug\net6.0\UnitOfWorkADONET.csproj.CoreCompileInputs.cache
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\REACT\backend\UnitOfWorkADONET\src\obj\Debug\net6.0\SuperOraculo.Infra.Data.Providers.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\REACT\backend\UnitOfWorkADONET\src\obj\Debug\net6.0\refint\SuperOraculo.Infra.Data.Providers.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\REACT\backend\UnitOfWorkADONET\src\obj\Debug\net6.0\SuperOraculo.Infra.Data.Providers.pdb
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\REACT\backend\UnitOfWorkADONET\src\obj\Debug\net6.0\ref\SuperOraculo.Infra.Data.Providers.dll
+C:\Users\22gab\OneDrive\Área de Trabalho\backend\UnitOfWorkADONET\src\bin\Debug\net6.0\SuperOraculo.Infra.Data.Providers.deps.json
+C:\Users\22gab\OneDrive\Área de Trabalho\backend\UnitOfWorkADONET\src\bin\Debug\net6.0\SuperOraculo.Infra.Data.Providers.dll
+C:\Users\22gab\OneDrive\Área de Trabalho\backend\UnitOfWorkADONET\src\bin\Debug\net6.0\SuperOraculo.Infra.Data.Providers.pdb
+C:\Users\22gab\OneDrive\Área de Trabalho\backend\UnitOfWorkADONET\src\obj\Debug\net6.0\UnitOfWorkADONET.csproj.AssemblyReference.cache
+C:\Users\22gab\OneDrive\Área de Trabalho\backend\UnitOfWorkADONET\src\obj\Debug\net6.0\UnitOfWorkADONET.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\22gab\OneDrive\Área de Trabalho\backend\UnitOfWorkADONET\src\obj\Debug\net6.0\UnitOfWorkADONET.AssemblyInfoInputs.cache
+C:\Users\22gab\OneDrive\Área de Trabalho\backend\UnitOfWorkADONET\src\obj\Debug\net6.0\UnitOfWorkADONET.AssemblyInfo.cs
+C:\Users\22gab\OneDrive\Área de Trabalho\backend\UnitOfWorkADONET\src\obj\Debug\net6.0\UnitOfWorkADONET.csproj.CoreCompileInputs.cache
+C:\Users\22gab\OneDrive\Área de Trabalho\backend\UnitOfWorkADONET\src\obj\Debug\net6.0\SuperOraculo.Infra.Data.Providers.dll
+C:\Users\22gab\OneDrive\Área de Trabalho\backend\UnitOfWorkADONET\src\obj\Debug\net6.0\refint\SuperOraculo.Infra.Data.Providers.dll
+C:\Users\22gab\OneDrive\Área de Trabalho\backend\UnitOfWorkADONET\src\obj\Debug\net6.0\SuperOraculo.Infra.Data.Providers.pdb
+C:\Users\22gab\OneDrive\Área de Trabalho\backend\UnitOfWorkADONET\src\obj\Debug\net6.0\ref\SuperOraculo.Infra.Data.Providers.dll

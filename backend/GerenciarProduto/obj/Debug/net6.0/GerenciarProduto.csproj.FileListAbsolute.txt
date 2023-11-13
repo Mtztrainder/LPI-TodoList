@@ -1,0 +1,645 @@
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\Atividades\GerenciarProduto\obj\Debug\net6.0\GerenciarProduto.csproj.AssemblyReference.cache
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\Atividades\GerenciarProduto\obj\Debug\net6.0\GerenciarProduto.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\Atividades\GerenciarProduto\obj\Debug\net6.0\GerenciarProduto.AssemblyInfoInputs.cache
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\Atividades\GerenciarProduto\obj\Debug\net6.0\GerenciarProduto.AssemblyInfo.cs
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\Atividades\GerenciarProduto\obj\Debug\net6.0\GerenciarProduto.csproj.CoreCompileInputs.cache
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\Atividades\GerenciarProduto\obj\Debug\net6.0\GerenciarProduto.MvcApplicationPartsAssemblyInfo.cache
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\Atividades\GerenciarProduto\bin\Debug\net6.0\appsettings.Development.json
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\Atividades\GerenciarProduto\bin\Debug\net6.0\appsettings.json
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\Atividades\GerenciarProduto\bin\Debug\net6.0\GerenciarProduto.exe
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\Atividades\GerenciarProduto\bin\Debug\net6.0\GerenciarProduto.deps.json
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\Atividades\GerenciarProduto\bin\Debug\net6.0\GerenciarProduto.runtimeconfig.json
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\Atividades\GerenciarProduto\bin\Debug\net6.0\GerenciarProduto.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\Atividades\GerenciarProduto\bin\Debug\net6.0\GerenciarProduto.pdb
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\Atividades\GerenciarProduto\obj\Debug\net6.0\staticwebassets\msbuild.GerenciarProduto.Microsoft.AspNetCore.StaticWebAssets.props
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\Atividades\GerenciarProduto\obj\Debug\net6.0\staticwebassets\msbuild.build.GerenciarProduto.props
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\Atividades\GerenciarProduto\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.GerenciarProduto.props
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\Atividades\GerenciarProduto\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.GerenciarProduto.props
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\Atividades\GerenciarProduto\obj\Debug\net6.0\staticwebassets.pack.json
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\Atividades\GerenciarProduto\obj\Debug\net6.0\staticwebassets.build.json
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\Atividades\GerenciarProduto\obj\Debug\net6.0\staticwebassets.development.json
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\Atividades\GerenciarProduto\obj\Debug\net6.0\scopedcss\bundle\GerenciarProduto.styles.css
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\Atividades\GerenciarProduto\obj\Debug\net6.0\GerenciarProduto.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\Atividades\GerenciarProduto\obj\Debug\net6.0\refint\GerenciarProduto.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\Atividades\GerenciarProduto\obj\Debug\net6.0\GerenciarProduto.pdb
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\Atividades\GerenciarProduto\obj\Debug\net6.0\GerenciarProduto.genruntimeconfig.cache
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\Atividades\GerenciarProduto\obj\Debug\net6.0\ref\GerenciarProduto.dll
+D:\PI\Atividades\GerenciarProduto-Limpo\obj\Debug\net6.0\GerenciarProduto.csproj.AssemblyReference.cache
+D:\PI\Atividades\GerenciarProduto-Limpo\obj\Debug\net6.0\GerenciarProduto.GeneratedMSBuildEditorConfig.editorconfig
+D:\PI\Atividades\GerenciarProduto-Limpo\obj\Debug\net6.0\GerenciarProduto.AssemblyInfoInputs.cache
+D:\PI\Atividades\GerenciarProduto-Limpo\obj\Debug\net6.0\GerenciarProduto.AssemblyInfo.cs
+D:\PI\Atividades\GerenciarProduto-Limpo\obj\Debug\net6.0\GerenciarProduto.csproj.CoreCompileInputs.cache
+D:\PI\Atividades\GerenciarProduto-Limpo\obj\Debug\net6.0\GerenciarProduto.MvcApplicationPartsAssemblyInfo.cache
+D:\PI\Atividades\GerenciarProduto-Limpo\obj\Debug\net6.0\GerenciarProduto.dll
+D:\PI\Atividades\GerenciarProduto-Limpo\obj\Debug\net6.0\refint\GerenciarProduto.dll
+D:\PI\Atividades\GerenciarProduto-Limpo\obj\Debug\net6.0\GerenciarProduto.pdb
+D:\PI\Atividades\GerenciarProduto-Limpo\bin\Debug\net6.0\appsettings.Development.json
+D:\PI\Atividades\GerenciarProduto-Limpo\bin\Debug\net6.0\appsettings.json
+D:\PI\Atividades\GerenciarProduto-Limpo\bin\Debug\net6.0\GerenciarProduto.exe
+D:\PI\Atividades\GerenciarProduto-Limpo\bin\Debug\net6.0\GerenciarProduto.deps.json
+D:\PI\Atividades\GerenciarProduto-Limpo\bin\Debug\net6.0\GerenciarProduto.runtimeconfig.json
+D:\PI\Atividades\GerenciarProduto-Limpo\bin\Debug\net6.0\GerenciarProduto.dll
+D:\PI\Atividades\GerenciarProduto-Limpo\bin\Debug\net6.0\GerenciarProduto.pdb
+D:\PI\Atividades\GerenciarProduto-Limpo\obj\Debug\net6.0\staticwebassets.build.json
+D:\PI\Atividades\GerenciarProduto-Limpo\obj\Debug\net6.0\staticwebassets.development.json
+D:\PI\Atividades\GerenciarProduto-Limpo\obj\Debug\net6.0\scopedcss\bundle\GerenciarProduto.styles.css
+D:\PI\Atividades\GerenciarProduto-Limpo\obj\Debug\net6.0\GerenciarProduto.genruntimeconfig.cache
+D:\PI\Atividades\GerenciarProduto-Limpo\obj\Debug\net6.0\ref\GerenciarProduto.dll
+C:\Users\Andre\Downloads\UnitOfWorkADONET-main\GerenciarProduto\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Andre\Downloads\UnitOfWorkADONET-main\GerenciarProduto\bin\Debug\net6.0\appsettings.json
+C:\Users\Andre\Downloads\UnitOfWorkADONET-main\GerenciarProduto\bin\Debug\net6.0\GerenciarProduto.exe
+C:\Users\Andre\Downloads\UnitOfWorkADONET-main\GerenciarProduto\bin\Debug\net6.0\GerenciarProduto.deps.json
+C:\Users\Andre\Downloads\UnitOfWorkADONET-main\GerenciarProduto\bin\Debug\net6.0\GerenciarProduto.runtimeconfig.json
+C:\Users\Andre\Downloads\UnitOfWorkADONET-main\GerenciarProduto\bin\Debug\net6.0\GerenciarProduto.dll
+C:\Users\Andre\Downloads\UnitOfWorkADONET-main\GerenciarProduto\bin\Debug\net6.0\GerenciarProduto.pdb
+C:\Users\Andre\Downloads\UnitOfWorkADONET-main\GerenciarProduto\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\Andre\Downloads\UnitOfWorkADONET-main\GerenciarProduto\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\Andre\Downloads\UnitOfWorkADONET-main\GerenciarProduto\bin\Debug\net6.0\Google.Protobuf.dll
+C:\Users\Andre\Downloads\UnitOfWorkADONET-main\GerenciarProduto\bin\Debug\net6.0\K4os.Compression.LZ4.dll
+C:\Users\Andre\Downloads\UnitOfWorkADONET-main\GerenciarProduto\bin\Debug\net6.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\Andre\Downloads\UnitOfWorkADONET-main\GerenciarProduto\bin\Debug\net6.0\K4os.Hash.xxHash.dll
+C:\Users\Andre\Downloads\UnitOfWorkADONET-main\GerenciarProduto\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Andre\Downloads\UnitOfWorkADONET-main\GerenciarProduto\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Andre\Downloads\UnitOfWorkADONET-main\GerenciarProduto\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Andre\Downloads\UnitOfWorkADONET-main\GerenciarProduto\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Andre\Downloads\UnitOfWorkADONET-main\GerenciarProduto\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Andre\Downloads\UnitOfWorkADONET-main\GerenciarProduto\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Andre\Downloads\UnitOfWorkADONET-main\GerenciarProduto\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Andre\Downloads\UnitOfWorkADONET-main\GerenciarProduto\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Andre\Downloads\UnitOfWorkADONET-main\GerenciarProduto\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Andre\Downloads\UnitOfWorkADONET-main\GerenciarProduto\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Andre\Downloads\UnitOfWorkADONET-main\GerenciarProduto\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\Andre\Downloads\UnitOfWorkADONET-main\GerenciarProduto\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Andre\Downloads\UnitOfWorkADONET-main\GerenciarProduto\bin\Debug\net6.0\MySql.Data.dll
+C:\Users\Andre\Downloads\UnitOfWorkADONET-main\GerenciarProduto\bin\Debug\net6.0\Oracle.ManagedDataAccess.dll
+C:\Users\Andre\Downloads\UnitOfWorkADONET-main\GerenciarProduto\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+C:\Users\Andre\Downloads\UnitOfWorkADONET-main\GerenciarProduto\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Andre\Downloads\UnitOfWorkADONET-main\GerenciarProduto\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\Andre\Downloads\UnitOfWorkADONET-main\GerenciarProduto\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Andre\Downloads\UnitOfWorkADONET-main\GerenciarProduto\bin\Debug\net6.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\Andre\Downloads\UnitOfWorkADONET-main\GerenciarProduto\bin\Debug\net6.0\System.DirectoryServices.dll
+C:\Users\Andre\Downloads\UnitOfWorkADONET-main\GerenciarProduto\bin\Debug\net6.0\System.DirectoryServices.Protocols.dll
+C:\Users\Andre\Downloads\UnitOfWorkADONET-main\GerenciarProduto\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Andre\Downloads\UnitOfWorkADONET-main\GerenciarProduto\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Andre\Downloads\UnitOfWorkADONET-main\GerenciarProduto\bin\Debug\net6.0\System.IO.Pipelines.dll
+C:\Users\Andre\Downloads\UnitOfWorkADONET-main\GerenciarProduto\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\Andre\Downloads\UnitOfWorkADONET-main\GerenciarProduto\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Andre\Downloads\UnitOfWorkADONET-main\GerenciarProduto\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Andre\Downloads\UnitOfWorkADONET-main\GerenciarProduto\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Andre\Downloads\UnitOfWorkADONET-main\GerenciarProduto\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Andre\Downloads\UnitOfWorkADONET-main\GerenciarProduto\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\Andre\Downloads\UnitOfWorkADONET-main\GerenciarProduto\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Andre\Downloads\UnitOfWorkADONET-main\GerenciarProduto\bin\Debug\net6.0\ZstdSharp.dll
+C:\Users\Andre\Downloads\UnitOfWorkADONET-main\GerenciarProduto\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Andre\Downloads\UnitOfWorkADONET-main\GerenciarProduto\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Andre\Downloads\UnitOfWorkADONET-main\GerenciarProduto\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Andre\Downloads\UnitOfWorkADONET-main\GerenciarProduto\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Andre\Downloads\UnitOfWorkADONET-main\GerenciarProduto\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Andre\Downloads\UnitOfWorkADONET-main\GerenciarProduto\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Andre\Downloads\UnitOfWorkADONET-main\GerenciarProduto\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Andre\Downloads\UnitOfWorkADONET-main\GerenciarProduto\bin\Debug\net6.0\runtimes\win-x64\native\comerr64.dll
+C:\Users\Andre\Downloads\UnitOfWorkADONET-main\GerenciarProduto\bin\Debug\net6.0\runtimes\win-x64\native\gssapi64.dll
+C:\Users\Andre\Downloads\UnitOfWorkADONET-main\GerenciarProduto\bin\Debug\net6.0\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\Andre\Downloads\UnitOfWorkADONET-main\GerenciarProduto\bin\Debug\net6.0\runtimes\win-x64\native\krb5_64.dll
+C:\Users\Andre\Downloads\UnitOfWorkADONET-main\GerenciarProduto\bin\Debug\net6.0\runtimes\win-x64\native\krbcc64.dll
+C:\Users\Andre\Downloads\UnitOfWorkADONET-main\GerenciarProduto\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Andre\Downloads\UnitOfWorkADONET-main\GerenciarProduto\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\Andre\Downloads\UnitOfWorkADONET-main\GerenciarProduto\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\Andre\Downloads\UnitOfWorkADONET-main\GerenciarProduto\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Andre\Downloads\UnitOfWorkADONET-main\GerenciarProduto\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Andre\Downloads\UnitOfWorkADONET-main\GerenciarProduto\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\Andre\Downloads\UnitOfWorkADONET-main\GerenciarProduto\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.DirectoryServices.dll
+C:\Users\Andre\Downloads\UnitOfWorkADONET-main\GerenciarProduto\bin\Debug\net6.0\runtimes\linux\lib\net6.0\System.DirectoryServices.Protocols.dll
+C:\Users\Andre\Downloads\UnitOfWorkADONET-main\GerenciarProduto\bin\Debug\net6.0\runtimes\osx\lib\net6.0\System.DirectoryServices.Protocols.dll
+C:\Users\Andre\Downloads\UnitOfWorkADONET-main\GerenciarProduto\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.DirectoryServices.Protocols.dll
+C:\Users\Andre\Downloads\UnitOfWorkADONET-main\GerenciarProduto\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Andre\Downloads\UnitOfWorkADONET-main\GerenciarProduto\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Andre\Downloads\UnitOfWorkADONET-main\GerenciarProduto\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Andre\Downloads\UnitOfWorkADONET-main\GerenciarProduto\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Andre\Downloads\UnitOfWorkADONET-main\GerenciarProduto\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Andre\Downloads\UnitOfWorkADONET-main\GerenciarProduto\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Andre\Downloads\UnitOfWorkADONET-main\GerenciarProduto\bin\Debug\net6.0\SuperOraculo.Infra.Data.Providers.dll
+C:\Users\Andre\Downloads\UnitOfWorkADONET-main\GerenciarProduto\bin\Debug\net6.0\SuperOraculo.Infra.Data.Providers.pdb
+C:\Users\Andre\Downloads\UnitOfWorkADONET-main\GerenciarProduto\obj\Debug\net6.0\GerenciarProduto.csproj.AssemblyReference.cache
+C:\Users\Andre\Downloads\UnitOfWorkADONET-main\GerenciarProduto\obj\Debug\net6.0\GerenciarProduto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andre\Downloads\UnitOfWorkADONET-main\GerenciarProduto\obj\Debug\net6.0\GerenciarProduto.AssemblyInfoInputs.cache
+C:\Users\Andre\Downloads\UnitOfWorkADONET-main\GerenciarProduto\obj\Debug\net6.0\GerenciarProduto.AssemblyInfo.cs
+C:\Users\Andre\Downloads\UnitOfWorkADONET-main\GerenciarProduto\obj\Debug\net6.0\GerenciarProduto.csproj.CoreCompileInputs.cache
+C:\Users\Andre\Downloads\UnitOfWorkADONET-main\GerenciarProduto\obj\Debug\net6.0\GerenciarProduto.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Andre\Downloads\UnitOfWorkADONET-main\GerenciarProduto\obj\Debug\net6.0\staticwebassets\msbuild.GerenciarProduto.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Andre\Downloads\UnitOfWorkADONET-main\GerenciarProduto\obj\Debug\net6.0\staticwebassets\msbuild.build.GerenciarProduto.props
+C:\Users\Andre\Downloads\UnitOfWorkADONET-main\GerenciarProduto\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.GerenciarProduto.props
+C:\Users\Andre\Downloads\UnitOfWorkADONET-main\GerenciarProduto\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.GerenciarProduto.props
+C:\Users\Andre\Downloads\UnitOfWorkADONET-main\GerenciarProduto\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Andre\Downloads\UnitOfWorkADONET-main\GerenciarProduto\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Andre\Downloads\UnitOfWorkADONET-main\GerenciarProduto\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Andre\Downloads\UnitOfWorkADONET-main\GerenciarProduto\obj\Debug\net6.0\scopedcss\bundle\GerenciarProduto.styles.css
+C:\Users\Andre\Downloads\UnitOfWorkADONET-main\GerenciarProduto\obj\Debug\net6.0\GerenciarProduto.csproj.CopyComplete
+C:\Users\Andre\Downloads\UnitOfWorkADONET-main\GerenciarProduto\obj\Debug\net6.0\GerenciarProduto.dll
+C:\Users\Andre\Downloads\UnitOfWorkADONET-main\GerenciarProduto\obj\Debug\net6.0\refint\GerenciarProduto.dll
+C:\Users\Andre\Downloads\UnitOfWorkADONET-main\GerenciarProduto\obj\Debug\net6.0\GerenciarProduto.pdb
+C:\Users\Andre\Downloads\UnitOfWorkADONET-main\GerenciarProduto\obj\Debug\net6.0\GerenciarProduto.genruntimeconfig.cache
+C:\Users\Andre\Downloads\UnitOfWorkADONET-main\GerenciarProduto\obj\Debug\net6.0\ref\GerenciarProduto.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\UnitOfWorkADONET\GerenciarProduto\bin\Debug\net6.0\appsettings.Development.json
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\UnitOfWorkADONET\GerenciarProduto\bin\Debug\net6.0\appsettings.json
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\UnitOfWorkADONET\GerenciarProduto\bin\Debug\net6.0\GerenciarProduto.exe
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\UnitOfWorkADONET\GerenciarProduto\bin\Debug\net6.0\GerenciarProduto.deps.json
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\UnitOfWorkADONET\GerenciarProduto\bin\Debug\net6.0\GerenciarProduto.runtimeconfig.json
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\UnitOfWorkADONET\GerenciarProduto\bin\Debug\net6.0\GerenciarProduto.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\UnitOfWorkADONET\GerenciarProduto\bin\Debug\net6.0\GerenciarProduto.pdb
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\UnitOfWorkADONET\GerenciarProduto\bin\Debug\net6.0\Azure.Core.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\UnitOfWorkADONET\GerenciarProduto\bin\Debug\net6.0\Azure.Identity.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\UnitOfWorkADONET\GerenciarProduto\bin\Debug\net6.0\Google.Protobuf.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\UnitOfWorkADONET\GerenciarProduto\bin\Debug\net6.0\K4os.Compression.LZ4.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\UnitOfWorkADONET\GerenciarProduto\bin\Debug\net6.0\K4os.Compression.LZ4.Streams.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\UnitOfWorkADONET\GerenciarProduto\bin\Debug\net6.0\K4os.Hash.xxHash.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\UnitOfWorkADONET\GerenciarProduto\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\UnitOfWorkADONET\GerenciarProduto\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\UnitOfWorkADONET\GerenciarProduto\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\UnitOfWorkADONET\GerenciarProduto\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\UnitOfWorkADONET\GerenciarProduto\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\UnitOfWorkADONET\GerenciarProduto\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\UnitOfWorkADONET\GerenciarProduto\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\UnitOfWorkADONET\GerenciarProduto\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\UnitOfWorkADONET\GerenciarProduto\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\UnitOfWorkADONET\GerenciarProduto\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\UnitOfWorkADONET\GerenciarProduto\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\UnitOfWorkADONET\GerenciarProduto\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\UnitOfWorkADONET\GerenciarProduto\bin\Debug\net6.0\MySql.Data.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\UnitOfWorkADONET\GerenciarProduto\bin\Debug\net6.0\Oracle.ManagedDataAccess.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\UnitOfWorkADONET\GerenciarProduto\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\UnitOfWorkADONET\GerenciarProduto\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\UnitOfWorkADONET\GerenciarProduto\bin\Debug\net6.0\System.Data.SqlClient.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\UnitOfWorkADONET\GerenciarProduto\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\UnitOfWorkADONET\GerenciarProduto\bin\Debug\net6.0\System.Diagnostics.PerformanceCounter.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\UnitOfWorkADONET\GerenciarProduto\bin\Debug\net6.0\System.DirectoryServices.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\UnitOfWorkADONET\GerenciarProduto\bin\Debug\net6.0\System.DirectoryServices.Protocols.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\UnitOfWorkADONET\GerenciarProduto\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\UnitOfWorkADONET\GerenciarProduto\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\UnitOfWorkADONET\GerenciarProduto\bin\Debug\net6.0\System.IO.Pipelines.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\UnitOfWorkADONET\GerenciarProduto\bin\Debug\net6.0\System.Memory.Data.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\UnitOfWorkADONET\GerenciarProduto\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\UnitOfWorkADONET\GerenciarProduto\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\UnitOfWorkADONET\GerenciarProduto\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\UnitOfWorkADONET\GerenciarProduto\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\UnitOfWorkADONET\GerenciarProduto\bin\Debug\net6.0\System.Text.Json.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\UnitOfWorkADONET\GerenciarProduto\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\UnitOfWorkADONET\GerenciarProduto\bin\Debug\net6.0\ZstdSharp.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\UnitOfWorkADONET\GerenciarProduto\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\UnitOfWorkADONET\GerenciarProduto\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\UnitOfWorkADONET\GerenciarProduto\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\UnitOfWorkADONET\GerenciarProduto\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\UnitOfWorkADONET\GerenciarProduto\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\UnitOfWorkADONET\GerenciarProduto\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\UnitOfWorkADONET\GerenciarProduto\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\UnitOfWorkADONET\GerenciarProduto\bin\Debug\net6.0\runtimes\win-x64\native\comerr64.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\UnitOfWorkADONET\GerenciarProduto\bin\Debug\net6.0\runtimes\win-x64\native\gssapi64.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\UnitOfWorkADONET\GerenciarProduto\bin\Debug\net6.0\runtimes\win-x64\native\k5sprt64.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\UnitOfWorkADONET\GerenciarProduto\bin\Debug\net6.0\runtimes\win-x64\native\krb5_64.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\UnitOfWorkADONET\GerenciarProduto\bin\Debug\net6.0\runtimes\win-x64\native\krbcc64.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\UnitOfWorkADONET\GerenciarProduto\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\UnitOfWorkADONET\GerenciarProduto\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\UnitOfWorkADONET\GerenciarProduto\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\UnitOfWorkADONET\GerenciarProduto\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\UnitOfWorkADONET\GerenciarProduto\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\UnitOfWorkADONET\GerenciarProduto\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Diagnostics.PerformanceCounter.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\UnitOfWorkADONET\GerenciarProduto\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.DirectoryServices.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\UnitOfWorkADONET\GerenciarProduto\bin\Debug\net6.0\runtimes\linux\lib\net6.0\System.DirectoryServices.Protocols.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\UnitOfWorkADONET\GerenciarProduto\bin\Debug\net6.0\runtimes\osx\lib\net6.0\System.DirectoryServices.Protocols.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\UnitOfWorkADONET\GerenciarProduto\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.DirectoryServices.Protocols.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\UnitOfWorkADONET\GerenciarProduto\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\UnitOfWorkADONET\GerenciarProduto\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\UnitOfWorkADONET\GerenciarProduto\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\UnitOfWorkADONET\GerenciarProduto\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\UnitOfWorkADONET\GerenciarProduto\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\UnitOfWorkADONET\GerenciarProduto\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\UnitOfWorkADONET\GerenciarProduto\bin\Debug\net6.0\SuperOraculo.Infra.Data.Providers.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\UnitOfWorkADONET\GerenciarProduto\bin\Debug\net6.0\SuperOraculo.Infra.Data.Providers.pdb
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\UnitOfWorkADONET\GerenciarProduto\obj\Debug\net6.0\GerenciarProduto.csproj.AssemblyReference.cache
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\UnitOfWorkADONET\GerenciarProduto\obj\Debug\net6.0\GerenciarProduto.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\UnitOfWorkADONET\GerenciarProduto\obj\Debug\net6.0\GerenciarProduto.AssemblyInfoInputs.cache
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\UnitOfWorkADONET\GerenciarProduto\obj\Debug\net6.0\GerenciarProduto.AssemblyInfo.cs
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\UnitOfWorkADONET\GerenciarProduto\obj\Debug\net6.0\GerenciarProduto.csproj.CoreCompileInputs.cache
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\UnitOfWorkADONET\GerenciarProduto\obj\Debug\net6.0\GerenciarProduto.MvcApplicationPartsAssemblyInfo.cache
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\UnitOfWorkADONET\GerenciarProduto\obj\Debug\net6.0\staticwebassets\msbuild.GerenciarProduto.Microsoft.AspNetCore.StaticWebAssets.props
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\UnitOfWorkADONET\GerenciarProduto\obj\Debug\net6.0\staticwebassets\msbuild.build.GerenciarProduto.props
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\UnitOfWorkADONET\GerenciarProduto\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.GerenciarProduto.props
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\UnitOfWorkADONET\GerenciarProduto\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.GerenciarProduto.props
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\UnitOfWorkADONET\GerenciarProduto\obj\Debug\net6.0\staticwebassets.pack.json
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\UnitOfWorkADONET\GerenciarProduto\obj\Debug\net6.0\staticwebassets.build.json
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\UnitOfWorkADONET\GerenciarProduto\obj\Debug\net6.0\staticwebassets.development.json
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\UnitOfWorkADONET\GerenciarProduto\obj\Debug\net6.0\scopedcss\bundle\GerenciarProduto.styles.css
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\UnitOfWorkADONET\GerenciarProduto\obj\Debug\net6.0\GerenciarProduto.csproj.CopyComplete
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\UnitOfWorkADONET\GerenciarProduto\obj\Debug\net6.0\GerenciarProduto.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\UnitOfWorkADONET\GerenciarProduto\obj\Debug\net6.0\refint\GerenciarProduto.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\UnitOfWorkADONET\GerenciarProduto\obj\Debug\net6.0\GerenciarProduto.pdb
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\UnitOfWorkADONET\GerenciarProduto\obj\Debug\net6.0\GerenciarProduto.genruntimeconfig.cache
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\UnitOfWorkADONET\GerenciarProduto\obj\Debug\net6.0\ref\GerenciarProduto.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\JWT\GerenciarProduto\obj\Debug\net6.0\GerenciarProduto.csproj.AssemblyReference.cache
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\JWT\GerenciarProduto\obj\Debug\net6.0\GerenciarProduto.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\JWT\GerenciarProduto\obj\Debug\net6.0\GerenciarProduto.AssemblyInfoInputs.cache
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\JWT\GerenciarProduto\obj\Debug\net6.0\GerenciarProduto.AssemblyInfo.cs
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\JWT\GerenciarProduto\obj\Debug\net6.0\GerenciarProduto.csproj.CoreCompileInputs.cache
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\JWT\GerenciarProduto\obj\Debug\net6.0\GerenciarProduto.MvcApplicationPartsAssemblyInfo.cache
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\JWT\GerenciarProduto\obj\Debug\net6.0\GerenciarProduto.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\JWT\GerenciarProduto\obj\Debug\net6.0\refint\GerenciarProduto.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\JWT\GerenciarProduto\obj\Debug\net6.0\GerenciarProduto.pdb
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\JWT\GerenciarProduto\bin\Debug\net6.0\appsettings.Development.json
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\JWT\GerenciarProduto\bin\Debug\net6.0\appsettings.json
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\JWT\GerenciarProduto\bin\Debug\net6.0\GerenciarProduto.exe
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\JWT\GerenciarProduto\bin\Debug\net6.0\GerenciarProduto.deps.json
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\JWT\GerenciarProduto\bin\Debug\net6.0\GerenciarProduto.runtimeconfig.json
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\JWT\GerenciarProduto\bin\Debug\net6.0\GerenciarProduto.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\JWT\GerenciarProduto\bin\Debug\net6.0\GerenciarProduto.pdb
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\JWT\GerenciarProduto\bin\Debug\net6.0\Azure.Core.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\JWT\GerenciarProduto\bin\Debug\net6.0\Azure.Identity.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\JWT\GerenciarProduto\bin\Debug\net6.0\Google.Protobuf.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\JWT\GerenciarProduto\bin\Debug\net6.0\K4os.Compression.LZ4.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\JWT\GerenciarProduto\bin\Debug\net6.0\K4os.Compression.LZ4.Streams.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\JWT\GerenciarProduto\bin\Debug\net6.0\K4os.Hash.xxHash.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\JWT\GerenciarProduto\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\JWT\GerenciarProduto\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\JWT\GerenciarProduto\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\JWT\GerenciarProduto\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\JWT\GerenciarProduto\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\JWT\GerenciarProduto\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\JWT\GerenciarProduto\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\JWT\GerenciarProduto\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\JWT\GerenciarProduto\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\JWT\GerenciarProduto\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\JWT\GerenciarProduto\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\JWT\GerenciarProduto\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\JWT\GerenciarProduto\bin\Debug\net6.0\MySql.Data.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\JWT\GerenciarProduto\bin\Debug\net6.0\Oracle.ManagedDataAccess.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\JWT\GerenciarProduto\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\JWT\GerenciarProduto\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\JWT\GerenciarProduto\bin\Debug\net6.0\System.Data.SqlClient.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\JWT\GerenciarProduto\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\JWT\GerenciarProduto\bin\Debug\net6.0\System.Diagnostics.PerformanceCounter.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\JWT\GerenciarProduto\bin\Debug\net6.0\System.DirectoryServices.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\JWT\GerenciarProduto\bin\Debug\net6.0\System.DirectoryServices.Protocols.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\JWT\GerenciarProduto\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\JWT\GerenciarProduto\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\JWT\GerenciarProduto\bin\Debug\net6.0\System.IO.Pipelines.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\JWT\GerenciarProduto\bin\Debug\net6.0\System.Memory.Data.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\JWT\GerenciarProduto\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\JWT\GerenciarProduto\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\JWT\GerenciarProduto\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\JWT\GerenciarProduto\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\JWT\GerenciarProduto\bin\Debug\net6.0\System.Text.Json.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\JWT\GerenciarProduto\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\JWT\GerenciarProduto\bin\Debug\net6.0\ZstdSharp.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\JWT\GerenciarProduto\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\JWT\GerenciarProduto\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\JWT\GerenciarProduto\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\JWT\GerenciarProduto\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\JWT\GerenciarProduto\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\JWT\GerenciarProduto\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\JWT\GerenciarProduto\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\JWT\GerenciarProduto\bin\Debug\net6.0\runtimes\win-x64\native\comerr64.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\JWT\GerenciarProduto\bin\Debug\net6.0\runtimes\win-x64\native\gssapi64.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\JWT\GerenciarProduto\bin\Debug\net6.0\runtimes\win-x64\native\k5sprt64.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\JWT\GerenciarProduto\bin\Debug\net6.0\runtimes\win-x64\native\krb5_64.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\JWT\GerenciarProduto\bin\Debug\net6.0\runtimes\win-x64\native\krbcc64.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\JWT\GerenciarProduto\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\JWT\GerenciarProduto\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\JWT\GerenciarProduto\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\JWT\GerenciarProduto\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\JWT\GerenciarProduto\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\JWT\GerenciarProduto\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Diagnostics.PerformanceCounter.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\JWT\GerenciarProduto\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.DirectoryServices.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\JWT\GerenciarProduto\bin\Debug\net6.0\runtimes\linux\lib\net6.0\System.DirectoryServices.Protocols.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\JWT\GerenciarProduto\bin\Debug\net6.0\runtimes\osx\lib\net6.0\System.DirectoryServices.Protocols.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\JWT\GerenciarProduto\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.DirectoryServices.Protocols.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\JWT\GerenciarProduto\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\JWT\GerenciarProduto\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\JWT\GerenciarProduto\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\JWT\GerenciarProduto\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\JWT\GerenciarProduto\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\JWT\GerenciarProduto\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\JWT\GerenciarProduto\bin\Debug\net6.0\SuperOraculo.Infra.Data.Providers.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\JWT\GerenciarProduto\bin\Debug\net6.0\SuperOraculo.Infra.Data.Providers.pdb
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\JWT\GerenciarProduto\obj\Debug\net6.0\staticwebassets\msbuild.GerenciarProduto.Microsoft.AspNetCore.StaticWebAssets.props
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\JWT\GerenciarProduto\obj\Debug\net6.0\staticwebassets\msbuild.build.GerenciarProduto.props
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\JWT\GerenciarProduto\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.GerenciarProduto.props
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\JWT\GerenciarProduto\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.GerenciarProduto.props
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\JWT\GerenciarProduto\obj\Debug\net6.0\staticwebassets.pack.json
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\JWT\GerenciarProduto\obj\Debug\net6.0\staticwebassets.build.json
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\JWT\GerenciarProduto\obj\Debug\net6.0\staticwebassets.development.json
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\JWT\GerenciarProduto\obj\Debug\net6.0\scopedcss\bundle\GerenciarProduto.styles.css
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\JWT\GerenciarProduto\obj\Debug\net6.0\GerenciarProduto.csproj.CopyComplete
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\JWT\GerenciarProduto\obj\Debug\net6.0\GerenciarProduto.genruntimeconfig.cache
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\JWT\GerenciarProduto\obj\Debug\net6.0\ref\GerenciarProduto.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\JWT\GerenciarProduto\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\APIDocs\GerenciarProduto\bin\Debug\net6.0\appsettings.Development.json
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\APIDocs\GerenciarProduto\bin\Debug\net6.0\appsettings.json
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\APIDocs\GerenciarProduto\bin\Debug\net6.0\GerenciarProduto.exe
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\APIDocs\GerenciarProduto\bin\Debug\net6.0\GerenciarProduto.deps.json
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\APIDocs\GerenciarProduto\bin\Debug\net6.0\GerenciarProduto.runtimeconfig.json
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\APIDocs\GerenciarProduto\bin\Debug\net6.0\GerenciarProduto.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\APIDocs\GerenciarProduto\bin\Debug\net6.0\GerenciarProduto.pdb
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\APIDocs\GerenciarProduto\bin\Debug\net6.0\Azure.Core.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\APIDocs\GerenciarProduto\bin\Debug\net6.0\Azure.Identity.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\APIDocs\GerenciarProduto\bin\Debug\net6.0\Google.Protobuf.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\APIDocs\GerenciarProduto\bin\Debug\net6.0\K4os.Compression.LZ4.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\APIDocs\GerenciarProduto\bin\Debug\net6.0\K4os.Compression.LZ4.Streams.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\APIDocs\GerenciarProduto\bin\Debug\net6.0\K4os.Hash.xxHash.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\APIDocs\GerenciarProduto\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\APIDocs\GerenciarProduto\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\APIDocs\GerenciarProduto\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\APIDocs\GerenciarProduto\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\APIDocs\GerenciarProduto\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\APIDocs\GerenciarProduto\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\APIDocs\GerenciarProduto\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\APIDocs\GerenciarProduto\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\APIDocs\GerenciarProduto\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\APIDocs\GerenciarProduto\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\APIDocs\GerenciarProduto\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\APIDocs\GerenciarProduto\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\APIDocs\GerenciarProduto\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\APIDocs\GerenciarProduto\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\APIDocs\GerenciarProduto\bin\Debug\net6.0\MySql.Data.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\APIDocs\GerenciarProduto\bin\Debug\net6.0\Oracle.ManagedDataAccess.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\APIDocs\GerenciarProduto\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\APIDocs\GerenciarProduto\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\APIDocs\GerenciarProduto\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\APIDocs\GerenciarProduto\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\APIDocs\GerenciarProduto\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\APIDocs\GerenciarProduto\bin\Debug\net6.0\System.Data.SqlClient.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\APIDocs\GerenciarProduto\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\APIDocs\GerenciarProduto\bin\Debug\net6.0\System.Diagnostics.PerformanceCounter.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\APIDocs\GerenciarProduto\bin\Debug\net6.0\System.DirectoryServices.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\APIDocs\GerenciarProduto\bin\Debug\net6.0\System.DirectoryServices.Protocols.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\APIDocs\GerenciarProduto\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\APIDocs\GerenciarProduto\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\APIDocs\GerenciarProduto\bin\Debug\net6.0\System.IO.Pipelines.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\APIDocs\GerenciarProduto\bin\Debug\net6.0\System.Memory.Data.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\APIDocs\GerenciarProduto\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\APIDocs\GerenciarProduto\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\APIDocs\GerenciarProduto\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\APIDocs\GerenciarProduto\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\APIDocs\GerenciarProduto\bin\Debug\net6.0\System.Text.Json.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\APIDocs\GerenciarProduto\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\APIDocs\GerenciarProduto\bin\Debug\net6.0\ZstdSharp.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\APIDocs\GerenciarProduto\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\APIDocs\GerenciarProduto\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\APIDocs\GerenciarProduto\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\APIDocs\GerenciarProduto\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\APIDocs\GerenciarProduto\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\APIDocs\GerenciarProduto\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\APIDocs\GerenciarProduto\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\APIDocs\GerenciarProduto\bin\Debug\net6.0\runtimes\win-x64\native\comerr64.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\APIDocs\GerenciarProduto\bin\Debug\net6.0\runtimes\win-x64\native\gssapi64.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\APIDocs\GerenciarProduto\bin\Debug\net6.0\runtimes\win-x64\native\k5sprt64.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\APIDocs\GerenciarProduto\bin\Debug\net6.0\runtimes\win-x64\native\krb5_64.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\APIDocs\GerenciarProduto\bin\Debug\net6.0\runtimes\win-x64\native\krbcc64.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\APIDocs\GerenciarProduto\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\APIDocs\GerenciarProduto\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\APIDocs\GerenciarProduto\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\APIDocs\GerenciarProduto\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\APIDocs\GerenciarProduto\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\APIDocs\GerenciarProduto\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Diagnostics.PerformanceCounter.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\APIDocs\GerenciarProduto\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.DirectoryServices.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\APIDocs\GerenciarProduto\bin\Debug\net6.0\runtimes\linux\lib\net6.0\System.DirectoryServices.Protocols.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\APIDocs\GerenciarProduto\bin\Debug\net6.0\runtimes\osx\lib\net6.0\System.DirectoryServices.Protocols.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\APIDocs\GerenciarProduto\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.DirectoryServices.Protocols.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\APIDocs\GerenciarProduto\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\APIDocs\GerenciarProduto\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\APIDocs\GerenciarProduto\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\APIDocs\GerenciarProduto\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\APIDocs\GerenciarProduto\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\APIDocs\GerenciarProduto\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\APIDocs\GerenciarProduto\bin\Debug\net6.0\SuperOraculo.Infra.Data.Providers.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\APIDocs\GerenciarProduto\bin\Debug\net6.0\SuperOraculo.Infra.Data.Providers.pdb
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\APIDocs\GerenciarProduto\obj\Debug\net6.0\GerenciarProduto.csproj.AssemblyReference.cache
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\APIDocs\GerenciarProduto\obj\Debug\net6.0\GerenciarProduto.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\APIDocs\GerenciarProduto\obj\Debug\net6.0\GerenciarProduto.AssemblyInfoInputs.cache
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\APIDocs\GerenciarProduto\obj\Debug\net6.0\GerenciarProduto.AssemblyInfo.cs
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\APIDocs\GerenciarProduto\obj\Debug\net6.0\GerenciarProduto.csproj.CoreCompileInputs.cache
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\APIDocs\GerenciarProduto\obj\Debug\net6.0\GerenciarProduto.MvcApplicationPartsAssemblyInfo.cs
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\APIDocs\GerenciarProduto\obj\Debug\net6.0\GerenciarProduto.MvcApplicationPartsAssemblyInfo.cache
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\APIDocs\GerenciarProduto\obj\Debug\net6.0\staticwebassets\msbuild.GerenciarProduto.Microsoft.AspNetCore.StaticWebAssets.props
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\APIDocs\GerenciarProduto\obj\Debug\net6.0\staticwebassets\msbuild.build.GerenciarProduto.props
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\APIDocs\GerenciarProduto\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.GerenciarProduto.props
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\APIDocs\GerenciarProduto\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.GerenciarProduto.props
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\APIDocs\GerenciarProduto\obj\Debug\net6.0\staticwebassets.pack.json
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\APIDocs\GerenciarProduto\obj\Debug\net6.0\staticwebassets.build.json
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\APIDocs\GerenciarProduto\obj\Debug\net6.0\staticwebassets.development.json
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\APIDocs\GerenciarProduto\obj\Debug\net6.0\scopedcss\bundle\GerenciarProduto.styles.css
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\APIDocs\GerenciarProduto\obj\Debug\net6.0\GerenciarProduto.csproj.CopyComplete
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\APIDocs\GerenciarProduto\obj\Debug\net6.0\GerenciarProduto.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\APIDocs\GerenciarProduto\obj\Debug\net6.0\refint\GerenciarProduto.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\APIDocs\GerenciarProduto\obj\Debug\net6.0\GerenciarProduto.pdb
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\APIDocs\GerenciarProduto\obj\Debug\net6.0\GerenciarProduto.genruntimeconfig.cache
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\APIDocs\GerenciarProduto\obj\Debug\net6.0\ref\GerenciarProduto.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\APIDocs\GerenciarProduto\bin\Debug\net6.0\GerenciarProduto.xml
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\APIDocs\GerenciarProduto\obj\Debug\net6.0\GerenciarProduto.xml
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\APIDocs\GerenciarProduto\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\REACT\backend\GerenciarProduto\bin\Debug\net6.0\appsettings.Development.json
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\REACT\backend\GerenciarProduto\bin\Debug\net6.0\appsettings.json
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\REACT\backend\GerenciarProduto\bin\Debug\net6.0\GerenciarProduto.exe
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\REACT\backend\GerenciarProduto\bin\Debug\net6.0\GerenciarProduto.deps.json
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\REACT\backend\GerenciarProduto\bin\Debug\net6.0\GerenciarProduto.runtimeconfig.json
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\REACT\backend\GerenciarProduto\bin\Debug\net6.0\GerenciarProduto.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\REACT\backend\GerenciarProduto\bin\Debug\net6.0\GerenciarProduto.pdb
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\REACT\backend\GerenciarProduto\bin\Debug\net6.0\GerenciarProduto.xml
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\REACT\backend\GerenciarProduto\bin\Debug\net6.0\Azure.Core.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\REACT\backend\GerenciarProduto\bin\Debug\net6.0\Azure.Identity.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\REACT\backend\GerenciarProduto\bin\Debug\net6.0\Google.Protobuf.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\REACT\backend\GerenciarProduto\bin\Debug\net6.0\K4os.Compression.LZ4.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\REACT\backend\GerenciarProduto\bin\Debug\net6.0\K4os.Compression.LZ4.Streams.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\REACT\backend\GerenciarProduto\bin\Debug\net6.0\K4os.Hash.xxHash.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\REACT\backend\GerenciarProduto\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\REACT\backend\GerenciarProduto\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\REACT\backend\GerenciarProduto\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\REACT\backend\GerenciarProduto\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\REACT\backend\GerenciarProduto\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\REACT\backend\GerenciarProduto\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\REACT\backend\GerenciarProduto\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\REACT\backend\GerenciarProduto\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\REACT\backend\GerenciarProduto\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\REACT\backend\GerenciarProduto\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\REACT\backend\GerenciarProduto\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\REACT\backend\GerenciarProduto\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\REACT\backend\GerenciarProduto\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\REACT\backend\GerenciarProduto\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\REACT\backend\GerenciarProduto\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\REACT\backend\GerenciarProduto\bin\Debug\net6.0\MySql.Data.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\REACT\backend\GerenciarProduto\bin\Debug\net6.0\Oracle.ManagedDataAccess.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\REACT\backend\GerenciarProduto\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\REACT\backend\GerenciarProduto\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\REACT\backend\GerenciarProduto\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\REACT\backend\GerenciarProduto\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\REACT\backend\GerenciarProduto\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\REACT\backend\GerenciarProduto\bin\Debug\net6.0\System.Data.SqlClient.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\REACT\backend\GerenciarProduto\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\REACT\backend\GerenciarProduto\bin\Debug\net6.0\System.Diagnostics.PerformanceCounter.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\REACT\backend\GerenciarProduto\bin\Debug\net6.0\System.DirectoryServices.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\REACT\backend\GerenciarProduto\bin\Debug\net6.0\System.DirectoryServices.Protocols.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\REACT\backend\GerenciarProduto\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\REACT\backend\GerenciarProduto\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\REACT\backend\GerenciarProduto\bin\Debug\net6.0\System.IO.Pipelines.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\REACT\backend\GerenciarProduto\bin\Debug\net6.0\System.Memory.Data.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\REACT\backend\GerenciarProduto\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\REACT\backend\GerenciarProduto\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\REACT\backend\GerenciarProduto\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\REACT\backend\GerenciarProduto\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\REACT\backend\GerenciarProduto\bin\Debug\net6.0\System.Text.Json.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\REACT\backend\GerenciarProduto\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\REACT\backend\GerenciarProduto\bin\Debug\net6.0\ZstdSharp.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\REACT\backend\GerenciarProduto\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\REACT\backend\GerenciarProduto\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\REACT\backend\GerenciarProduto\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\REACT\backend\GerenciarProduto\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\REACT\backend\GerenciarProduto\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\REACT\backend\GerenciarProduto\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\REACT\backend\GerenciarProduto\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\REACT\backend\GerenciarProduto\bin\Debug\net6.0\runtimes\win-x64\native\comerr64.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\REACT\backend\GerenciarProduto\bin\Debug\net6.0\runtimes\win-x64\native\gssapi64.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\REACT\backend\GerenciarProduto\bin\Debug\net6.0\runtimes\win-x64\native\k5sprt64.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\REACT\backend\GerenciarProduto\bin\Debug\net6.0\runtimes\win-x64\native\krb5_64.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\REACT\backend\GerenciarProduto\bin\Debug\net6.0\runtimes\win-x64\native\krbcc64.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\REACT\backend\GerenciarProduto\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\REACT\backend\GerenciarProduto\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\REACT\backend\GerenciarProduto\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\REACT\backend\GerenciarProduto\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\REACT\backend\GerenciarProduto\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\REACT\backend\GerenciarProduto\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Diagnostics.PerformanceCounter.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\REACT\backend\GerenciarProduto\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.DirectoryServices.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\REACT\backend\GerenciarProduto\bin\Debug\net6.0\runtimes\linux\lib\net6.0\System.DirectoryServices.Protocols.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\REACT\backend\GerenciarProduto\bin\Debug\net6.0\runtimes\osx\lib\net6.0\System.DirectoryServices.Protocols.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\REACT\backend\GerenciarProduto\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.DirectoryServices.Protocols.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\REACT\backend\GerenciarProduto\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\REACT\backend\GerenciarProduto\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\REACT\backend\GerenciarProduto\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\REACT\backend\GerenciarProduto\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\REACT\backend\GerenciarProduto\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\REACT\backend\GerenciarProduto\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\REACT\backend\GerenciarProduto\bin\Debug\net6.0\SuperOraculo.Infra.Data.Providers.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\REACT\backend\GerenciarProduto\bin\Debug\net6.0\SuperOraculo.Infra.Data.Providers.pdb
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\REACT\backend\GerenciarProduto\obj\Debug\net6.0\GerenciarProduto.csproj.AssemblyReference.cache
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\REACT\backend\GerenciarProduto\obj\Debug\net6.0\GerenciarProduto.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\REACT\backend\GerenciarProduto\obj\Debug\net6.0\GerenciarProduto.AssemblyInfoInputs.cache
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\REACT\backend\GerenciarProduto\obj\Debug\net6.0\GerenciarProduto.AssemblyInfo.cs
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\REACT\backend\GerenciarProduto\obj\Debug\net6.0\GerenciarProduto.csproj.CoreCompileInputs.cache
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\REACT\backend\GerenciarProduto\obj\Debug\net6.0\GerenciarProduto.MvcApplicationPartsAssemblyInfo.cs
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\REACT\backend\GerenciarProduto\obj\Debug\net6.0\GerenciarProduto.MvcApplicationPartsAssemblyInfo.cache
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\REACT\backend\GerenciarProduto\obj\Debug\net6.0\staticwebassets\msbuild.GerenciarProduto.Microsoft.AspNetCore.StaticWebAssets.props
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\REACT\backend\GerenciarProduto\obj\Debug\net6.0\staticwebassets\msbuild.build.GerenciarProduto.props
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\REACT\backend\GerenciarProduto\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.GerenciarProduto.props
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\REACT\backend\GerenciarProduto\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.GerenciarProduto.props
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\REACT\backend\GerenciarProduto\obj\Debug\net6.0\staticwebassets.pack.json
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\REACT\backend\GerenciarProduto\obj\Debug\net6.0\staticwebassets.build.json
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\REACT\backend\GerenciarProduto\obj\Debug\net6.0\staticwebassets.development.json
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\REACT\backend\GerenciarProduto\obj\Debug\net6.0\scopedcss\bundle\GerenciarProduto.styles.css
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\REACT\backend\GerenciarProduto\obj\Debug\net6.0\GerenciarProduto.csproj.CopyComplete
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\REACT\backend\GerenciarProduto\obj\Debug\net6.0\GerenciarProduto.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\REACT\backend\GerenciarProduto\obj\Debug\net6.0\refint\GerenciarProduto.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\REACT\backend\GerenciarProduto\obj\Debug\net6.0\GerenciarProduto.xml
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\REACT\backend\GerenciarProduto\obj\Debug\net6.0\GerenciarProduto.pdb
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\REACT\backend\GerenciarProduto\obj\Debug\net6.0\GerenciarProduto.genruntimeconfig.cache
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2023\REACT\backend\GerenciarProduto\obj\Debug\net6.0\ref\GerenciarProduto.dll
+C:\Users\22gab\OneDrive\Área de Trabalho\backend\GerenciarProduto\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\22gab\OneDrive\Área de Trabalho\backend\GerenciarProduto\bin\Debug\net6.0\appsettings.json
+C:\Users\22gab\OneDrive\Área de Trabalho\backend\GerenciarProduto\bin\Debug\net6.0\GerenciarProduto.exe
+C:\Users\22gab\OneDrive\Área de Trabalho\backend\GerenciarProduto\bin\Debug\net6.0\GerenciarProduto.deps.json
+C:\Users\22gab\OneDrive\Área de Trabalho\backend\GerenciarProduto\bin\Debug\net6.0\GerenciarProduto.runtimeconfig.json
+C:\Users\22gab\OneDrive\Área de Trabalho\backend\GerenciarProduto\bin\Debug\net6.0\GerenciarProduto.dll
+C:\Users\22gab\OneDrive\Área de Trabalho\backend\GerenciarProduto\bin\Debug\net6.0\GerenciarProduto.pdb
+C:\Users\22gab\OneDrive\Área de Trabalho\backend\GerenciarProduto\bin\Debug\net6.0\GerenciarProduto.xml
+C:\Users\22gab\OneDrive\Área de Trabalho\backend\GerenciarProduto\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\22gab\OneDrive\Área de Trabalho\backend\GerenciarProduto\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\22gab\OneDrive\Área de Trabalho\backend\GerenciarProduto\bin\Debug\net6.0\Google.Protobuf.dll
+C:\Users\22gab\OneDrive\Área de Trabalho\backend\GerenciarProduto\bin\Debug\net6.0\K4os.Compression.LZ4.dll
+C:\Users\22gab\OneDrive\Área de Trabalho\backend\GerenciarProduto\bin\Debug\net6.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\22gab\OneDrive\Área de Trabalho\backend\GerenciarProduto\bin\Debug\net6.0\K4os.Hash.xxHash.dll
+C:\Users\22gab\OneDrive\Área de Trabalho\backend\GerenciarProduto\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\22gab\OneDrive\Área de Trabalho\backend\GerenciarProduto\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+C:\Users\22gab\OneDrive\Área de Trabalho\backend\GerenciarProduto\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\22gab\OneDrive\Área de Trabalho\backend\GerenciarProduto\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\22gab\OneDrive\Área de Trabalho\backend\GerenciarProduto\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\22gab\OneDrive\Área de Trabalho\backend\GerenciarProduto\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\22gab\OneDrive\Área de Trabalho\backend\GerenciarProduto\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\22gab\OneDrive\Área de Trabalho\backend\GerenciarProduto\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\22gab\OneDrive\Área de Trabalho\backend\GerenciarProduto\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\22gab\OneDrive\Área de Trabalho\backend\GerenciarProduto\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\22gab\OneDrive\Área de Trabalho\backend\GerenciarProduto\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\22gab\OneDrive\Área de Trabalho\backend\GerenciarProduto\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\22gab\OneDrive\Área de Trabalho\backend\GerenciarProduto\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\22gab\OneDrive\Área de Trabalho\backend\GerenciarProduto\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\22gab\OneDrive\Área de Trabalho\backend\GerenciarProduto\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\22gab\OneDrive\Área de Trabalho\backend\GerenciarProduto\bin\Debug\net6.0\MySql.Data.dll
+C:\Users\22gab\OneDrive\Área de Trabalho\backend\GerenciarProduto\bin\Debug\net6.0\Oracle.ManagedDataAccess.dll
+C:\Users\22gab\OneDrive\Área de Trabalho\backend\GerenciarProduto\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+C:\Users\22gab\OneDrive\Área de Trabalho\backend\GerenciarProduto\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\22gab\OneDrive\Área de Trabalho\backend\GerenciarProduto\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\22gab\OneDrive\Área de Trabalho\backend\GerenciarProduto\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\22gab\OneDrive\Área de Trabalho\backend\GerenciarProduto\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\22gab\OneDrive\Área de Trabalho\backend\GerenciarProduto\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\22gab\OneDrive\Área de Trabalho\backend\GerenciarProduto\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\22gab\OneDrive\Área de Trabalho\backend\GerenciarProduto\bin\Debug\net6.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\22gab\OneDrive\Área de Trabalho\backend\GerenciarProduto\bin\Debug\net6.0\System.DirectoryServices.dll
+C:\Users\22gab\OneDrive\Área de Trabalho\backend\GerenciarProduto\bin\Debug\net6.0\System.DirectoryServices.Protocols.dll
+C:\Users\22gab\OneDrive\Área de Trabalho\backend\GerenciarProduto\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\22gab\OneDrive\Área de Trabalho\backend\GerenciarProduto\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\22gab\OneDrive\Área de Trabalho\backend\GerenciarProduto\bin\Debug\net6.0\System.IO.Pipelines.dll
+C:\Users\22gab\OneDrive\Área de Trabalho\backend\GerenciarProduto\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\22gab\OneDrive\Área de Trabalho\backend\GerenciarProduto\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\22gab\OneDrive\Área de Trabalho\backend\GerenciarProduto\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\22gab\OneDrive\Área de Trabalho\backend\GerenciarProduto\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\22gab\OneDrive\Área de Trabalho\backend\GerenciarProduto\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\22gab\OneDrive\Área de Trabalho\backend\GerenciarProduto\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\22gab\OneDrive\Área de Trabalho\backend\GerenciarProduto\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\22gab\OneDrive\Área de Trabalho\backend\GerenciarProduto\bin\Debug\net6.0\ZstdSharp.dll
+C:\Users\22gab\OneDrive\Área de Trabalho\backend\GerenciarProduto\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\22gab\OneDrive\Área de Trabalho\backend\GerenciarProduto\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\22gab\OneDrive\Área de Trabalho\backend\GerenciarProduto\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\22gab\OneDrive\Área de Trabalho\backend\GerenciarProduto\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\22gab\OneDrive\Área de Trabalho\backend\GerenciarProduto\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\22gab\OneDrive\Área de Trabalho\backend\GerenciarProduto\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\22gab\OneDrive\Área de Trabalho\backend\GerenciarProduto\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\22gab\OneDrive\Área de Trabalho\backend\GerenciarProduto\bin\Debug\net6.0\runtimes\win-x64\native\comerr64.dll
+C:\Users\22gab\OneDrive\Área de Trabalho\backend\GerenciarProduto\bin\Debug\net6.0\runtimes\win-x64\native\gssapi64.dll
+C:\Users\22gab\OneDrive\Área de Trabalho\backend\GerenciarProduto\bin\Debug\net6.0\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\22gab\OneDrive\Área de Trabalho\backend\GerenciarProduto\bin\Debug\net6.0\runtimes\win-x64\native\krb5_64.dll
+C:\Users\22gab\OneDrive\Área de Trabalho\backend\GerenciarProduto\bin\Debug\net6.0\runtimes\win-x64\native\krbcc64.dll
+C:\Users\22gab\OneDrive\Área de Trabalho\backend\GerenciarProduto\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\22gab\OneDrive\Área de Trabalho\backend\GerenciarProduto\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\22gab\OneDrive\Área de Trabalho\backend\GerenciarProduto\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\22gab\OneDrive\Área de Trabalho\backend\GerenciarProduto\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\22gab\OneDrive\Área de Trabalho\backend\GerenciarProduto\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\22gab\OneDrive\Área de Trabalho\backend\GerenciarProduto\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\22gab\OneDrive\Área de Trabalho\backend\GerenciarProduto\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.DirectoryServices.dll
+C:\Users\22gab\OneDrive\Área de Trabalho\backend\GerenciarProduto\bin\Debug\net6.0\runtimes\linux\lib\net6.0\System.DirectoryServices.Protocols.dll
+C:\Users\22gab\OneDrive\Área de Trabalho\backend\GerenciarProduto\bin\Debug\net6.0\runtimes\osx\lib\net6.0\System.DirectoryServices.Protocols.dll
+C:\Users\22gab\OneDrive\Área de Trabalho\backend\GerenciarProduto\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.DirectoryServices.Protocols.dll
+C:\Users\22gab\OneDrive\Área de Trabalho\backend\GerenciarProduto\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\22gab\OneDrive\Área de Trabalho\backend\GerenciarProduto\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\22gab\OneDrive\Área de Trabalho\backend\GerenciarProduto\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\22gab\OneDrive\Área de Trabalho\backend\GerenciarProduto\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\22gab\OneDrive\Área de Trabalho\backend\GerenciarProduto\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\22gab\OneDrive\Área de Trabalho\backend\GerenciarProduto\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\22gab\OneDrive\Área de Trabalho\backend\GerenciarProduto\bin\Debug\net6.0\SuperOraculo.Infra.Data.Providers.dll
+C:\Users\22gab\OneDrive\Área de Trabalho\backend\GerenciarProduto\bin\Debug\net6.0\SuperOraculo.Infra.Data.Providers.pdb
+C:\Users\22gab\OneDrive\Área de Trabalho\backend\GerenciarProduto\obj\Debug\net6.0\GerenciarProduto.csproj.AssemblyReference.cache
+C:\Users\22gab\OneDrive\Área de Trabalho\backend\GerenciarProduto\obj\Debug\net6.0\GerenciarProduto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\22gab\OneDrive\Área de Trabalho\backend\GerenciarProduto\obj\Debug\net6.0\GerenciarProduto.AssemblyInfoInputs.cache
+C:\Users\22gab\OneDrive\Área de Trabalho\backend\GerenciarProduto\obj\Debug\net6.0\GerenciarProduto.AssemblyInfo.cs
+C:\Users\22gab\OneDrive\Área de Trabalho\backend\GerenciarProduto\obj\Debug\net6.0\GerenciarProduto.csproj.CoreCompileInputs.cache
+C:\Users\22gab\OneDrive\Área de Trabalho\backend\GerenciarProduto\obj\Debug\net6.0\GerenciarProduto.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\22gab\OneDrive\Área de Trabalho\backend\GerenciarProduto\obj\Debug\net6.0\GerenciarProduto.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\22gab\OneDrive\Área de Trabalho\backend\GerenciarProduto\obj\Debug\net6.0\staticwebassets\msbuild.GerenciarProduto.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\22gab\OneDrive\Área de Trabalho\backend\GerenciarProduto\obj\Debug\net6.0\staticwebassets\msbuild.build.GerenciarProduto.props
+C:\Users\22gab\OneDrive\Área de Trabalho\backend\GerenciarProduto\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.GerenciarProduto.props
+C:\Users\22gab\OneDrive\Área de Trabalho\backend\GerenciarProduto\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.GerenciarProduto.props
+C:\Users\22gab\OneDrive\Área de Trabalho\backend\GerenciarProduto\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\22gab\OneDrive\Área de Trabalho\backend\GerenciarProduto\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\22gab\OneDrive\Área de Trabalho\backend\GerenciarProduto\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\22gab\OneDrive\Área de Trabalho\backend\GerenciarProduto\obj\Debug\net6.0\scopedcss\bundle\GerenciarProduto.styles.css
+C:\Users\22gab\OneDrive\Área de Trabalho\backend\GerenciarProduto\obj\Debug\net6.0\GerenciarProduto.csproj.CopyComplete
+C:\Users\22gab\OneDrive\Área de Trabalho\backend\GerenciarProduto\obj\Debug\net6.0\GerenciarProduto.dll
+C:\Users\22gab\OneDrive\Área de Trabalho\backend\GerenciarProduto\obj\Debug\net6.0\refint\GerenciarProduto.dll
+C:\Users\22gab\OneDrive\Área de Trabalho\backend\GerenciarProduto\obj\Debug\net6.0\GerenciarProduto.xml
+C:\Users\22gab\OneDrive\Área de Trabalho\backend\GerenciarProduto\obj\Debug\net6.0\GerenciarProduto.pdb
+C:\Users\22gab\OneDrive\Área de Trabalho\backend\GerenciarProduto\obj\Debug\net6.0\GerenciarProduto.genruntimeconfig.cache
+C:\Users\22gab\OneDrive\Área de Trabalho\backend\GerenciarProduto\obj\Debug\net6.0\ref\GerenciarProduto.dll

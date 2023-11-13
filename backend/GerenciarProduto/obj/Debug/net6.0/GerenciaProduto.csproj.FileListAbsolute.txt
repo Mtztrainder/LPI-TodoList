@@ -1,0 +1,93 @@
+C:\Users\Aluno\source\repos\GerenciaProduto\GerenciaProduto\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Aluno\source\repos\GerenciaProduto\GerenciaProduto\bin\Debug\net6.0\appsettings.json
+C:\Users\Aluno\source\repos\GerenciaProduto\GerenciaProduto\bin\Debug\net6.0\GerenciaProduto.exe
+C:\Users\Aluno\source\repos\GerenciaProduto\GerenciaProduto\bin\Debug\net6.0\GerenciaProduto.deps.json
+C:\Users\Aluno\source\repos\GerenciaProduto\GerenciaProduto\bin\Debug\net6.0\GerenciaProduto.runtimeconfig.json
+C:\Users\Aluno\source\repos\GerenciaProduto\GerenciaProduto\bin\Debug\net6.0\GerenciaProduto.dll
+C:\Users\Aluno\source\repos\GerenciaProduto\GerenciaProduto\bin\Debug\net6.0\GerenciaProduto.pdb
+C:\Users\Aluno\source\repos\GerenciaProduto\GerenciaProduto\obj\Debug\net6.0\GerenciaProduto.csproj.AssemblyReference.cache
+C:\Users\Aluno\source\repos\GerenciaProduto\GerenciaProduto\obj\Debug\net6.0\GerenciaProduto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\source\repos\GerenciaProduto\GerenciaProduto\obj\Debug\net6.0\GerenciaProduto.AssemblyInfoInputs.cache
+C:\Users\Aluno\source\repos\GerenciaProduto\GerenciaProduto\obj\Debug\net6.0\GerenciaProduto.AssemblyInfo.cs
+C:\Users\Aluno\source\repos\GerenciaProduto\GerenciaProduto\obj\Debug\net6.0\GerenciaProduto.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\source\repos\GerenciaProduto\GerenciaProduto\obj\Debug\net6.0\GerenciaProduto.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Aluno\source\repos\GerenciaProduto\GerenciaProduto\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Aluno\source\repos\GerenciaProduto\GerenciaProduto\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Aluno\source\repos\GerenciaProduto\GerenciaProduto\obj\Debug\net6.0\scopedcss\bundle\GerenciaProduto.styles.css
+C:\Users\Aluno\source\repos\GerenciaProduto\GerenciaProduto\obj\Debug\net6.0\GerenciaProduto.dll
+C:\Users\Aluno\source\repos\GerenciaProduto\GerenciaProduto\obj\Debug\net6.0\refint\GerenciaProduto.dll
+C:\Users\Aluno\source\repos\GerenciaProduto\GerenciaProduto\obj\Debug\net6.0\GerenciaProduto.pdb
+C:\Users\Aluno\source\repos\GerenciaProduto\GerenciaProduto\obj\Debug\net6.0\GerenciaProduto.genruntimeconfig.cache
+C:\Users\Aluno\source\repos\GerenciaProduto\GerenciaProduto\obj\Debug\net6.0\ref\GerenciaProduto.dll
+D:\GerenciaProduto\GerenciaProduto\bin\Debug\net6.0\appsettings.Development.json
+D:\GerenciaProduto\GerenciaProduto\bin\Debug\net6.0\appsettings.json
+D:\GerenciaProduto\GerenciaProduto\bin\Debug\net6.0\GerenciaProduto.exe
+D:\GerenciaProduto\GerenciaProduto\bin\Debug\net6.0\GerenciaProduto.deps.json
+D:\GerenciaProduto\GerenciaProduto\bin\Debug\net6.0\GerenciaProduto.runtimeconfig.json
+D:\GerenciaProduto\GerenciaProduto\bin\Debug\net6.0\GerenciaProduto.dll
+D:\GerenciaProduto\GerenciaProduto\bin\Debug\net6.0\GerenciaProduto.pdb
+D:\GerenciaProduto\GerenciaProduto\obj\Debug\net6.0\GerenciaProduto.GeneratedMSBuildEditorConfig.editorconfig
+D:\GerenciaProduto\GerenciaProduto\obj\Debug\net6.0\GerenciaProduto.AssemblyInfoInputs.cache
+D:\GerenciaProduto\GerenciaProduto\obj\Debug\net6.0\GerenciaProduto.AssemblyInfo.cs
+D:\GerenciaProduto\GerenciaProduto\obj\Debug\net6.0\GerenciaProduto.csproj.CoreCompileInputs.cache
+D:\GerenciaProduto\GerenciaProduto\obj\Debug\net6.0\GerenciaProduto.MvcApplicationPartsAssemblyInfo.cache
+D:\GerenciaProduto\GerenciaProduto\obj\Debug\net6.0\staticwebassets.build.json
+D:\GerenciaProduto\GerenciaProduto\obj\Debug\net6.0\staticwebassets.development.json
+D:\GerenciaProduto\GerenciaProduto\obj\Debug\net6.0\scopedcss\bundle\GerenciaProduto.styles.css
+D:\GerenciaProduto\GerenciaProduto\obj\Debug\net6.0\GerenciaProduto.dll
+D:\GerenciaProduto\GerenciaProduto\obj\Debug\net6.0\refint\GerenciaProduto.dll
+D:\GerenciaProduto\GerenciaProduto\obj\Debug\net6.0\GerenciaProduto.pdb
+D:\GerenciaProduto\GerenciaProduto\obj\Debug\net6.0\GerenciaProduto.genruntimeconfig.cache
+D:\GerenciaProduto\GerenciaProduto\obj\Debug\net6.0\ref\GerenciaProduto.dll
+C:\Users\Bruno\Documents\6 Termo\LP1\GerenciaProduto\GerenciaProduto\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Bruno\Documents\6 Termo\LP1\GerenciaProduto\GerenciaProduto\bin\Debug\net6.0\appsettings.json
+C:\Users\Bruno\Documents\6 Termo\LP1\GerenciaProduto\GerenciaProduto\bin\Debug\net6.0\GerenciaProduto.exe
+C:\Users\Bruno\Documents\6 Termo\LP1\GerenciaProduto\GerenciaProduto\bin\Debug\net6.0\GerenciaProduto.deps.json
+C:\Users\Bruno\Documents\6 Termo\LP1\GerenciaProduto\GerenciaProduto\bin\Debug\net6.0\GerenciaProduto.runtimeconfig.json
+C:\Users\Bruno\Documents\6 Termo\LP1\GerenciaProduto\GerenciaProduto\bin\Debug\net6.0\GerenciaProduto.dll
+C:\Users\Bruno\Documents\6 Termo\LP1\GerenciaProduto\GerenciaProduto\bin\Debug\net6.0\GerenciaProduto.pdb
+C:\Users\Bruno\Documents\6 Termo\LP1\GerenciaProduto\GerenciaProduto\obj\Debug\net6.0\GerenciaProduto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bruno\Documents\6 Termo\LP1\GerenciaProduto\GerenciaProduto\obj\Debug\net6.0\GerenciaProduto.AssemblyInfoInputs.cache
+C:\Users\Bruno\Documents\6 Termo\LP1\GerenciaProduto\GerenciaProduto\obj\Debug\net6.0\GerenciaProduto.AssemblyInfo.cs
+C:\Users\Bruno\Documents\6 Termo\LP1\GerenciaProduto\GerenciaProduto\obj\Debug\net6.0\GerenciaProduto.csproj.CoreCompileInputs.cache
+C:\Users\Bruno\Documents\6 Termo\LP1\GerenciaProduto\GerenciaProduto\obj\Debug\net6.0\GerenciaProduto.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Bruno\Documents\6 Termo\LP1\GerenciaProduto\GerenciaProduto\obj\Debug\net6.0\staticwebassets\msbuild.GerenciaProduto.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Bruno\Documents\6 Termo\LP1\GerenciaProduto\GerenciaProduto\obj\Debug\net6.0\staticwebassets\msbuild.build.GerenciaProduto.props
+C:\Users\Bruno\Documents\6 Termo\LP1\GerenciaProduto\GerenciaProduto\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.GerenciaProduto.props
+C:\Users\Bruno\Documents\6 Termo\LP1\GerenciaProduto\GerenciaProduto\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.GerenciaProduto.props
+C:\Users\Bruno\Documents\6 Termo\LP1\GerenciaProduto\GerenciaProduto\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Bruno\Documents\6 Termo\LP1\GerenciaProduto\GerenciaProduto\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Bruno\Documents\6 Termo\LP1\GerenciaProduto\GerenciaProduto\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Bruno\Documents\6 Termo\LP1\GerenciaProduto\GerenciaProduto\obj\Debug\net6.0\scopedcss\bundle\GerenciaProduto.styles.css
+C:\Users\Bruno\Documents\6 Termo\LP1\GerenciaProduto\GerenciaProduto\obj\Debug\net6.0\GerenciaProduto.dll
+C:\Users\Bruno\Documents\6 Termo\LP1\GerenciaProduto\GerenciaProduto\obj\Debug\net6.0\refint\GerenciaProduto.dll
+C:\Users\Bruno\Documents\6 Termo\LP1\GerenciaProduto\GerenciaProduto\obj\Debug\net6.0\GerenciaProduto.pdb
+C:\Users\Bruno\Documents\6 Termo\LP1\GerenciaProduto\GerenciaProduto\obj\Debug\net6.0\GerenciaProduto.genruntimeconfig.cache
+C:\Users\Bruno\Documents\6 Termo\LP1\GerenciaProduto\GerenciaProduto\obj\Debug\net6.0\ref\GerenciaProduto.dll
+D:\GerenciaProduto\GerenciaProduto\obj\Debug\net6.0\GerenciaProduto.csproj.AssemblyReference.cache
+C:\Users\Andre\Downloads\GerenciaProduto\GerenciaProduto\GerenciaProduto\obj\Debug\net6.0\GerenciaProduto.csproj.AssemblyReference.cache
+C:\Users\Andre\Downloads\GerenciaProduto\GerenciaProduto\GerenciaProduto\obj\Debug\net6.0\GerenciaProduto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andre\Downloads\GerenciaProduto\GerenciaProduto\GerenciaProduto\obj\Debug\net6.0\GerenciaProduto.AssemblyInfoInputs.cache
+C:\Users\Andre\Downloads\GerenciaProduto\GerenciaProduto\GerenciaProduto\obj\Debug\net6.0\GerenciaProduto.AssemblyInfo.cs
+C:\Users\Andre\Downloads\GerenciaProduto\GerenciaProduto\GerenciaProduto\obj\Debug\net6.0\GerenciaProduto.csproj.CoreCompileInputs.cache
+C:\Users\Andre\Downloads\GerenciaProduto\GerenciaProduto\GerenciaProduto\obj\Debug\net6.0\GerenciaProduto.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Andre\Downloads\GerenciaProduto\GerenciaProduto\GerenciaProduto\obj\Debug\net6.0\GerenciaProduto.dll
+C:\Users\Andre\Downloads\GerenciaProduto\GerenciaProduto\GerenciaProduto\obj\Debug\net6.0\refint\GerenciaProduto.dll
+C:\Users\Andre\Downloads\GerenciaProduto\GerenciaProduto\GerenciaProduto\obj\Debug\net6.0\GerenciaProduto.pdb
+C:\Users\Andre\Downloads\GerenciaProduto\GerenciaProduto\GerenciaProduto\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Andre\Downloads\GerenciaProduto\GerenciaProduto\GerenciaProduto\bin\Debug\net6.0\appsettings.json
+C:\Users\Andre\Downloads\GerenciaProduto\GerenciaProduto\GerenciaProduto\bin\Debug\net6.0\GerenciaProduto.exe
+C:\Users\Andre\Downloads\GerenciaProduto\GerenciaProduto\GerenciaProduto\bin\Debug\net6.0\GerenciaProduto.deps.json
+C:\Users\Andre\Downloads\GerenciaProduto\GerenciaProduto\GerenciaProduto\bin\Debug\net6.0\GerenciaProduto.runtimeconfig.json
+C:\Users\Andre\Downloads\GerenciaProduto\GerenciaProduto\GerenciaProduto\bin\Debug\net6.0\GerenciaProduto.dll
+C:\Users\Andre\Downloads\GerenciaProduto\GerenciaProduto\GerenciaProduto\bin\Debug\net6.0\GerenciaProduto.pdb
+C:\Users\Andre\Downloads\GerenciaProduto\GerenciaProduto\GerenciaProduto\obj\Debug\net6.0\staticwebassets\msbuild.GerenciaProduto.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Andre\Downloads\GerenciaProduto\GerenciaProduto\GerenciaProduto\obj\Debug\net6.0\staticwebassets\msbuild.build.GerenciaProduto.props
+C:\Users\Andre\Downloads\GerenciaProduto\GerenciaProduto\GerenciaProduto\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.GerenciaProduto.props
+C:\Users\Andre\Downloads\GerenciaProduto\GerenciaProduto\GerenciaProduto\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.GerenciaProduto.props
+C:\Users\Andre\Downloads\GerenciaProduto\GerenciaProduto\GerenciaProduto\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Andre\Downloads\GerenciaProduto\GerenciaProduto\GerenciaProduto\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Andre\Downloads\GerenciaProduto\GerenciaProduto\GerenciaProduto\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Andre\Downloads\GerenciaProduto\GerenciaProduto\GerenciaProduto\obj\Debug\net6.0\scopedcss\bundle\GerenciaProduto.styles.css
+C:\Users\Andre\Downloads\GerenciaProduto\GerenciaProduto\GerenciaProduto\obj\Debug\net6.0\GerenciaProduto.genruntimeconfig.cache
+C:\Users\Andre\Downloads\GerenciaProduto\GerenciaProduto\GerenciaProduto\obj\Debug\net6.0\ref\GerenciaProduto.dll

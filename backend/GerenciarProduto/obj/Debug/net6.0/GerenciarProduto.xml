@@ -1,0 +1,94 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>GerenciarProduto</name>
+    </assembly>
+    <members>
+        <member name="T:GerenciarProduto.Controllers.ProdutoController">
+            <summary>
+            Gerenciador de Produtos.
+            </summary>
+        </member>
+        <member name="M:GerenciarProduto.Controllers.ProdutoController.Adicionar(GerenciarProduto.ViewModel.ProdutoViewModel)">
+            <summary>
+            Adiciona um Produto.
+            </summary>
+            <remarks>
+            Algum complemento/observações...
+            </remarks>
+            <param name="produtoVM">Dados do produto.</param>
+        </member>
+        <member name="M:GerenciarProduto.Controllers.ProdutoController.Atualizar(System.Int32,GerenciarProduto.ViewModel.ProdutoAtualizacaoViewModel)">
+            <summary>
+            Atualizar produtos de uma Lista de Produtos do tipo Integrada.
+            </summary>
+            <param name="id">Id da Lista de Produtos que irá receber os produtos.</param>
+            <param name="produtoVM">Produtos a serem inseridos.</param>
+        </member>
+        <member name="T:GerenciarProduto.Controllers.SiteLoginController">
+            <summary>
+            Gerenciador de Tarefas.
+            </summary>
+        </member>
+        <member name="T:GerenciarProduto.Controllers.TodoController">
+            <summary>
+            Gerenciador de Tarefas.
+            </summary>
+        </member>
+        <member name="T:GerenciarProduto.ViewModel.ProdutoViewModel">
+            <summary>
+            Dados do Produto
+            </summary>
+        </member>
+        <member name="P:GerenciarProduto.ViewModel.ProdutoViewModel.Nome">
+            <summary>
+            Nome do Produto
+            </summary>
+        </member>
+        <member name="P:GerenciarProduto.ViewModel.ProdutoViewModel.Preco">
+            <summary>
+            Preço do Produto
+            </summary>
+        </member>
+        <member name="P:GerenciarProduto.ViewModel.ProdutoViewModel.Estoque">
+            <summary>
+            Estoque do Produto
+            </summary>
+        </member>
+        <member name="T:GerenciarProduto.ViewModel.SiteUsuarioViewModel">
+            <summary>
+            Dados da Todo
+            </summary>
+        </member>
+        <member name="P:GerenciarProduto.ViewModel.SiteUsuarioViewModel.Nome">
+            <summary>
+            Nome do usuário
+            </summary>
+        </member>
+        <member name="P:GerenciarProduto.ViewModel.SiteUsuarioViewModel.Senha">
+            <summary>
+            Senha do usuário
+            </summary>
+        </member>
+        <member name="T:GerenciarProduto.ViewModel.TodoAtualizacaoViewModel">
+            <summary>
+            Dados da Todo
+            </summary>
+        </member>
+        <member name="P:GerenciarProduto.ViewModel.TodoAtualizacaoViewModel.Descricao">
+            <summary>
+            Tarefa
+            </summary>
+        </member>
+        <member name="T:GerenciarProduto.ViewModel.TodoViewModel">
+            <summary>
+            Dados da Todo
+            </summary>
+        </member>
+        <member name="P:GerenciarProduto.ViewModel.TodoViewModel.Descricao">
+            <summary>
+            Tarefa
+            </summary>
+        </member>
+    </members>
+</doc>

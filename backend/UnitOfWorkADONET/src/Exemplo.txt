@@ -1,0 +1,30 @@
+﻿
+var contextFactory = new DBContext("Server=xxxxx;Port=3306;Database=xxxxx;Uid=xxx;Pwd=xxxxx;", IDBContextFactory.TpProvider.MySQL);
+
+ADONETContext bd = new ADONETContext(contextFactory);
+
+using (var uow = bd.CreateUnitOfWork())
+{
+
+    try
+    {
+        using (var cmd = bd.CreateCommand())
+        {
+
+            cmd.CommandText = @"select * from Aluno";
+
+            var dr = cmd.ExecuteReader();
+
+            while(dr.Read())
+            {
+                Console.WriteLine(dr["Nome"].ToString());
+            }
+        }
+
+        uow.SaveChanges();
+    }
+    catch (Exception ex)
+    {
+        uow.CancelChanges();
+    }
+}
